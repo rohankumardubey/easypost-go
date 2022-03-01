@@ -3,6 +3,7 @@
 ## Next Release
 
 * Add `CreateRefund`, `CreateRefundWithContext`, `ListRefunds`, `ListRefundsWithContext`, `GetRefund`, and `GetRefundWithContext` in the Refund file
+* Fix the typo for the `ListBatchesResult` type, change the type from `Insurance` to `Batch`
 
 ## v2.0.1 (2022-02-10)
 
