@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## Next Release
+
+* Add `CreateRefund`, `CreateRefundWithContext`, `ListRefunds`, `ListRefundsWithContext`, `GetRefund`, and `GetRefundWithContext` in the Refund file
+
 ## v2.0.1 (2022-02-10)
 
 * Corrects namespace for v2 release from `github.com/EasyPost/easypost-go` to `github.com/EasyPost/easypost-go/v2`
